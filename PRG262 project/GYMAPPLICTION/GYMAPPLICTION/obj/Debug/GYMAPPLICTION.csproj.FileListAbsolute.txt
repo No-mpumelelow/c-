@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.login.resources
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.program.resources
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.Properties.Resources.resources
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRG262\PRG262 project\GYMAPPLICTION\GYMAPPLICTION\obj\Debug\GYMAPPLICTION.loginclass.resources
